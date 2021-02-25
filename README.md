@@ -35,6 +35,7 @@ Finish !
 - Go http://xxx.xxx.xxx.xxx/AdminPanel or https://xxx.xxx.xxx.xxx/AdminPanel to access Panel Admin
 
 If you are issue after installation (nginx,mariadb... not found), use this script : bash install-debug.sh (watch the log during installation)
+Some white screen issues can be fixed with   sudo apt install php7.3-memcache php7.3-memcached memcached
 
 ###### :bangbang: **Kudaraidee Install Script :**
 - Instead Tpruvot's Yiimp, you can use the Kudaraidee's Repo Yiimp : git clone -b Kudaraidee https://github.com/Kudaraidee/yiimp.git
